@@ -1,1 +1,3 @@
-# guia-de-estudos-certificacoes
+# Guia de Estudos de Certificações Microsoft
+
+* [AZ-900 - Azure Fundamentals](https://github.com/cyz/guia-de-estudos-certificacoes/blob/master/az-900.md)
